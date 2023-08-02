@@ -3,4 +3,4 @@
 Take on the skin of a Pigeon and show the sparrows where they belong
 
 ## Wanna try on your own?
-[PLAY](https://gd.games/instant-builds/b4b86733-ea68-4d06-8172-be65b161c37a){:target="_blank"}
+[PLAY](https://gd.games/instant-builds/b4b86733-ea68-4d06-8172-be65b161c37a)
